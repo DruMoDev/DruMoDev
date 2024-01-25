@@ -16,7 +16,7 @@
 
 ## Proyectos Destacados
 
-- [Quiosco de Comida](https://tienda-y-paneldeadministracion-dru.vercel.app/) - Tienda de comidad donde poder realizar pedido en tiempo real, con panel de adminsitración ("/administracion") para gestionar los pedidos que se almacenan en una base de datos MongoDB.
+- [Tienda de Comida](https://tienda-y-paneldeadministracion-dru.vercel.app/) - Tienda de comidad donde poder realizar pedido en tiempo real, con panel de adminsitración ("/administracion") para gestionar los pedidos que se almacenan en una base de datos. Front-end craedo con React.js y Tailwind CSS. Back-end y DB creado con Prisma y MongoDB.
 
 ## En busca de oportunidades
 
